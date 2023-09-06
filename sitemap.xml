@@ -6,7 +6,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2023-09-06T17:01:53-00:00</lastmod>
+<lastmod>2023-09-06T17:13:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -48,42 +48,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2023-09-06T17:01:53-00:00</lastmod>
+<lastmod>2023-09-06T17:13:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/author/rdot.html</loc>
-<lastmod>2023-09-06T17:01:53-00:00</lastmod>
+<lastmod>2023-09-06T17:13:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/authors.html</loc>
-<lastmod>2023-09-06T17:01:53-00:00</lastmod>
+<lastmod>2023-09-06T17:13:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2023-09-06T17:01:53-00:00</lastmod>
+<lastmod>2023-09-06T17:13:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/category/small-business-seo.html</loc>
-<lastmod>2023-09-06T17:01:53-00:00</lastmod>
+<lastmod>2023-09-06T17:13:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2023-09-06T17:01:53-00:00</lastmod>
+<lastmod>2023-09-06T17:13:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
