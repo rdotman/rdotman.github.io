@@ -6,20 +6,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://rdotman.github.io/</loc>
-<lastmod>2023-09-07T15:00:50-00:00</lastmod>
+<lastmod>2023-09-08T11:35:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://rdotman.github.io/</loc>
-<lastmod>2023-09-07T15:00:50-00:00</lastmod>
+<lastmod>2023-09-08T11:35:25-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://rdotman.github.io/1-introduction-to-seo-for-small-enterprises.html</loc>
+<loc>https://rdotman.github.io/1-introduction-to-seo.html</loc>
 <lastmod>2023-09-06T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -55,42 +55,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://rdotman.github.io/archives.html</loc>
-<lastmod>2023-09-07T15:00:50-00:00</lastmod>
+<lastmod>2023-09-08T11:35:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://rdotman.github.io/author/rdot.html</loc>
-<lastmod>2023-09-07T15:00:50-00:00</lastmod>
+<lastmod>2023-09-08T11:35:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://rdotman.github.io/authors.html</loc>
-<lastmod>2023-09-07T15:00:50-00:00</lastmod>
+<lastmod>2023-09-08T11:35:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://rdotman.github.io/categories.html</loc>
-<lastmod>2023-09-07T15:00:50-00:00</lastmod>
+<lastmod>2023-09-08T11:35:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://rdotman.github.io/category/google.html</loc>
-<lastmod>2023-09-07T15:00:50-00:00</lastmod>
+<lastmod>2023-09-08T11:35:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://rdotman.github.io/category/small-business-seo.html</loc>
-<lastmod>2023-09-07T15:00:50-00:00</lastmod>
+<loc>https://rdotman.github.io/category/seo.html</loc>
+<lastmod>2023-09-08T11:35:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -104,7 +104,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://rdotman.github.io/tags.html</loc>
-<lastmod>2023-09-07T15:00:50-00:00</lastmod>
+<lastmod>2023-09-08T11:35:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
